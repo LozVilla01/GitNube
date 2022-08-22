@@ -1,0 +1,6 @@
+# Archivos a no respaldar en el repositorio 
+Nuevo documento de texto.txt.txt
+*.tmp
+
+# Carpetas a no contemplar en el respaldo 
+module/
